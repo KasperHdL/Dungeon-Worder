@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ang",
+				"angle	Vector2.*(from, to)"
+			],
+			[
+				"Instai",
+				"Instantiate	Object.*(original, position, rotation)"
+			],
+			[
+				"Input",
+				"Input.gyro	[property]"
+			],
+			[
+				"normalize",
+				"normalize	Vector3.*()"
+			],
+			[
+				"attract",
+				"attractiveCoeff"
+			],
+			[
+				"add",
+				"add	Array.*()"
+			],
+			[
+				"Rotat",
+				"Rotate	Transform.*(eulerAngles, relativeTo)"
+			],
+			[
+				"torqu",
+				"torqueSpeed"
+			],
+			[
+				"Distance",
+				"Distance	Vector3.*(a, b)"
+			],
+			[
+				"look",
+				"lookAt	Transform.*(target, worldUp)"
+			],
+			[
+				"random",
+				"random.value	[property]"
+			],
+			[
+				"min",
+				"min	Mathf.*(a, b)"
+			],
+			[
+				"GetButton",
+				"GetMouseButton	Input.*(button)"
+			],
+			[
+				"timedelt",
+				"time.deltaTime	[property]"
+			],
+			[
+				"allow",
+				"allowedCodes"
+			],
+			[
+				"proce",
+				"processingjs"
+			],
+			[
+				"reelU",
+				"reelU"
+			],
+			[
+				"main",
+				"mainTextureScale	Material.*"
+			],
+			[
+				"mainTexture",
+				"mainTextureOffset	Material.*"
+			],
+			[
+				"readyGo",
+				"readyGoMat"
+			],
+			[
+				"Round",
+				"RoundToInt	Mathf.*(f)"
+			],
+			[
+				"playing",
+				"playingGame"
+			],
+			[
+				"inactive",
+				"inactiveCounter"
+			],
+			[
+				"pinJum",
+				"pinJumpValue"
+			],
+			[
+				"pinJu",
+				"pinJumpValue"
+			],
+			[
+				"MoveTo",
+				"MoveTowards	Vector3.*(current, target, maxDistanceDelta)"
+			],
+			[
+				"you",
+				"youWon"
+			],
+			[
+				"gameOver",
+				"gameOverDelay"
+			],
+			[
+				"shrunk",
+				"shrunkAniLength"
+			],
+			[
+				"quatern",
+				"quaternion.identity	[var]"
+			],
+			[
+				"getRandom",
+				"getRandomPowerUpType"
+			],
+			[
+				"Random",
+				"Random.value	[var]"
+			],
+			[
+				"capture",
+				"captureScreenshot	Application.*(filename, superSize)"
+			],
+			[
+				"shieldFa",
+				"shieldFadeLength"
+			],
+			[
+				"only",
+				"OnlySpawnItem"
+			],
+			[
+				"invince",
+				"Invincible"
+			],
+			[
+				"gravity",
+				"gravityModifier	ParticleSystem.*"
+			],
+			[
+				"euler",
+				"eulerAngles	Quaternion.*"
+			],
+			[
+				"Quat",
+				"Quaternion	[class]"
+			],
+			[
+				"pinpon",
+				"pingPong	Mathf.*(t, length)"
+			],
+			[
+				"mathf",
+				"mathf.PingPong	*(t, length)"
+			],
+			[
+				"shrun",
+				"shrunkAniLength"
+			],
+			[
+				"lerp",
+				"lerp	Vector2.*(from, to, t)"
+			],
+			[
+				"dyn",
+				"dynamicFriction	PhysicMaterial.*"
+			],
+			[
+				"Collide",
+				"Collider2D	[class]"
+			],
+			[
+				"Lerp",
+				"Lerp	Color.*(a, b, t)"
+			],
+			[
+				"Time",
+				"Time.frameCount	[var]"
+			],
+			[
+				"ignor",
+				"ignoreCollision	Physics.*(collider1, collider2, ignore)"
+			],
+			[
+				"Phy",
+				"Physics2D	[class]"
+			],
+			[
+				"item",
+				"itemDist"
+			],
+			[
+				"box",
+				"boxIndices"
+			],
+			[
+				"Cei",
+				"CeilToInt	Mathf.*(f)"
+			],
+			[
+				"boxInde",
+				"boxIndices"
+			],
+			[
+				"itemBox",
+				"itemBoxPos"
+			],
+			[
+				"nextPo",
+				"nextPointReady"
+			],
+			[
+				"nextP",
+				"nextPointReady"
+			],
+			[
+				"angle",
+				"angle	Quaternion.*(a, b)"
+			],
+			[
+				"mag",
+				"magnitude	Vector3.*"
+			],
+			[
+				"spritere",
+				"spriteRenderer.color	[var]"
+			],
+			[
+				"rece",
+				"receiveBeat"
+			],
+			[
+				"SetBoo",
+				"SetBool	Animator.*(id, value)"
+			],
+			[
+				"color",
+				"color	[class]"
+			],
+			[
+				"animate",
+				"animateObject"
+			],
+			[
+				"ignore",
+				"IgnoreCollision"
+			],
+			[
+				"shoo",
+				"shootDown"
+			],
+			[
+				"shoot",
+				"shooting"
+			],
+			[
+				"jump",
+				"jumpWheight"
+			],
+			[
+				"Mathf",
+				"Mathf.PI	[var]"
+			],
+			[
+				"spirte",
+				"sprite	SpriteRenderer.*"
+			],
+			[
+				"Animation",
+				"AnimationClip	*()"
+			],
+			[
+				"PlayMode",
+				"PlayMode.StopAll	[var]"
+			],
+			[
+				"play",
+				"play	Animator.*(stateName, layer, normalizedTime)"
+			],
+			[
+				"speed",
+				"speedModifier"
+			],
+			[
+				"Find",
+				"Find	Transform.*(name)"
+			],
+			[
+				"poisen",
+				"poisenCooldown"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Player.cs",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Word.cs",
+			"settings":
+			{
+				"buffer_size": 4209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Extensions.cs",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Windows",
+				"name": "Exte"
+			}
+		},
+		{
+			"file": "Letter.cs",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Enemy.cs",
+			"settings":
+			{
+				"buffer_size": 913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Game_Handler.cs",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Settings.cs",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Room.cs",
+			"settings":
+			{
+				"buffer_size": 2588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Room_Handler.cs",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Hand-In/Hand-in4/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Hand-In/Hand-in4/Assets/Letter.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Hand-In/Hand-in4/Assets/Scripts/Letter.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Hand-In/Hand-in4/Assets/Word.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Hand-In/Hand-in4/Assets/Scripts/Game_Handler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/P3Project.sublime-project",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/Assets/Scripts/IP/KinectIP.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/Assets/Scripts/Player/BoxHandler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Drive/Git/Game/Unity/P3Project/Assets/Scripts/IP/KinectIP.cs*0",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Drive/Git/Game/Unity/P3Project/Assets/Scripts/IP/KinectIP.cs*0*",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/*C",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Drive/Git/Game/Unity/P3Project/Assets/Scripts/IP/KinectIP.cs",
+		"/C/Users/Kasper/Google",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/71",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/Scripts/IP/KinectIP.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/Scripts/Enemies/EnemyAIScript.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/0",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/($File)",
+		"/C/Users/Kasper/Desktop/ZDK/IZigInputReader.cs",
+		"/C/Users/Kasper/Desktop/ZDK/OpenNI2/ZigInputOpenNI2.cs",
+		"/C/Users/Kasper/Desktop/ZDK/ZigInput.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/ZigFu/Scripts/_Internal/ZDK.dll",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/ZigFu/Scripts/_Internal/Matrix3.cs",
+		"/C/Users/Kasper/Desktop/ZDK/ZigInputUser.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/SfNuiControl/NuiServiceSetup.msi",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/SfNuiControl/Script/KinectV1Processor.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/P3Project/Assets/ZigFu/Scripts/_Internal/TimedBuffer.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Exercises/Lec2/Lec2/Main.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Exercises/Lec1/Lec1/Main.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Exercises/Exercise1/Exercise1/Main.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Exercises/Exercise2/Exercise2/Main.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Exercises/ex2.cs",
+		"/C/Program Files/Sublime Text 3/Packages/C#.sublime-package",
+		"/C/Users/Kasper/Desktop/msbuild.sublime-build",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Unity/Lesson 1/Assets/Sliders.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Unity/Lesson 1/Assets/PlayerMovement.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/3 Semester/PP/Unity/Lesson 1/Assets/CameraMovement.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Strategy/Assets/Scripts/Selection.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Strategy/Assets/Scripts/Camera/PlayerMovement.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Strategy/Assets/Scripts/Unit/Unit.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Strategy/Assets/Scripts/test.cs",
+		"/C/Users/Kasper/Google Drive/Git/Web/Columbus/Beregninger/Beregninger.pde",
+		"/C/Users/Kasper/Google Drive/Git/Web/Columbus/Beregninger/web-export/processing.js",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Uniduino/Scripts/Arduino.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Settings.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Uniduino/Tutorials/Blink Button/BlinkButton.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Handlers/Game_Handler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/reelImages.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/reelImages.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Items/Item.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Handlers/Shots_Handler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Shots/Shot.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Ani_Player.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Player_Attributes.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Effects.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Player_Action.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Handlers/Team_Handler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Shots/Shot_Fire.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Shots/Shot_Poison.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Handlers/Item_Handler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Effects.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Wall.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Items/ItemBox.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/EnvironmentEffects/Poison_Effect.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Shots/Shot_Ice.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/EnvironmentEffects/Fire_Effect.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Shots/Shot_Std.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/EnvironmentEffects/Environment_Effect.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Animation/Ani_Player.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Handlers/Beat_Handler.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Find Results",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Player_Shoot.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Player_Move.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Scripts/Character/Animation/Ani_Body.cs",
+		"/C/Users/Kasper/Google Drive/Git/Game/Unity/Battle of Beats/Assets/Effects.cs",
+		"/C/Users/Kasper/Copy/KasperHdL/AAU/2 semester/MMA/Hand-In/Hand-in1.pdf",
+		"/C/Users/Kasper/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/C/Users/Kasper/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kasper/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Kasper\\Google Drive\\Git\\Game\\Unity\\Battle of Beats\\Assets\\Scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"position",
+			"player",
+			"Settings.LONGEST_WORD",
+			"selectedIndex",
+			"currentRoom",
+			"public",
+			"nextWordIndex-1",
+			"setActive",
+			"].setActive",
+			".enabled = ",
+			"gameObject",
+			"enabled",
+			"colors",
+			";",
+			"255",
+			"float",
+			"f",
+			",",
+			"currentWord",
+			"in",
+			"input",
+			"State.Wrong",
+			"State.Correct",
+			"State.Correc",
+			"State.Normal",
+			"LetterState",
+			"letter",
+			"Letter",
+			"WIDTH",
+			"float",
+			"int",
+			"Settings.WALL_SIZE",
+			"Settings.ENEMY_SIZE_Y",
+			"Settings.ENEMY_SIZE_X",
+			"WALL_WIDTH",
+			"Settings.WALL_WIDTH",
+			"WALL_WIDTH",
+			"type",
+			",1",
+			",",
+			"0.5f",
+			"enemyPrefab.transform.localScale.x,type.x",
+			"enemyPrefab.transform.localScale.x,type.",
+			"ENEMY",
+			"/2",
+			"player",
+			".wallPos",
+			"r2(",
+			"2",
+			"position",
+			"roomType",
+			"wallType",
+			"GameObject",
+			"currentString",
+			"Random",
+			");\n",
+			"0",
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11",
+			"1",
+			"2",
+			"0",
+			"0 ",
+			"0",
+			"while",
+			"1",
+			"continue",
+			"13",
+			"12",
+			"11",
+			"1",
+			"0",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			" ",
+			"\n",
+			"  ",
+			" ",
+			",,",
+			" ",
+			"   ",
+			"  ",
+			" ",
+			"\n",
+			"fibo",
+			" ",
+			"j",
+			"int",
+			"()\n			",
+			"()",
+			";}",
+			"{",
+			"}",
+			"(\"---\");",
+			"i",
+			"(\"---\");",
+			"Console.WriteLine(\"---\");",
+			"\n			Console.WriteLine(\"---\");\n\n			Console.WriteLine(\"6:\");\n			a = 13;b=37;\n			if(13<37)Console.WriteLine(\"4\");\n			Console.WriteLine(\"---\");",
+			"try{",
+			"Console",
+			"console",
+			"catch",
+			"try",
+			"1",
+			"keyCode",
+			"Key",
+			"10",
+			"radius",
+			".",
+			"m1",
+			"transform",
+			"Rigidbody",
+			"for",
+			"new",
+			"ArrayList"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Player_Action"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Player.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Word.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2278,
+								2278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1009.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Extensions.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Exte",
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Letter.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Enemy.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Game_Handler.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Settings.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								827,
+								827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Room.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Room_Handler.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							],
+							[
+								375,
+								375
+							],
+							[
+								393,
+								393
+							],
+							[
+								427,
+								427
+							],
+							[
+								545,
+								545
+							],
+							[
+								578,
+								578
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 177.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"project": "Hand-in4.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Kasper\\Copy\\KasperHdL\\AAU\\3 Semester\\PP\\Exercises\\Exercises.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
