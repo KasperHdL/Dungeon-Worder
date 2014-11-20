@@ -3,7 +3,9 @@
 	//WORDS
 	public static string[] ATTACKS = {"arrow", "ball", "missile"};
 	public static string[] ELEMENTS = {"fire", "water", "wind", "earth", "light"};
-	public static int LONGEST_WORD = 7;
+	public static int LONGEST_ATTACK_WORD = 7;
+	public static int LONGEST_ELEMENT_WORD = 5;
+	public static int LONGEST_WORD = LONGEST_ATTACK_WORD + LONGEST_ELEMENT_WORD;
 
 	//PLAYER
 	public static float PLAYER_SPAWN_BUFFER_X = 2;

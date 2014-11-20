@@ -17,15 +17,13 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(selectedEnemy == null && roomHandler.room.enemies.Count != 0){
+		if(roomHandler.room.empty){
+			transform.rotation = Quaternion.identity;
+			roomHandler.newRoom();
+		}else if(selectedEnemy == null){
 			selectedEnemyIndex = 0;
 			selectedEnemy = roomHandler.room.enemies[0].GetComponent<Enemy>();
 			word.setNewWord();
-		}else if(roomHandler.room.enemies.Count == 0){
-			transform.rotation = Quaternion.identity;
-
-
-			return;
 		}
 
 		float angle = Vector2.Angle(Vector2.right,selectedEnemy.transform.position-transform.position);

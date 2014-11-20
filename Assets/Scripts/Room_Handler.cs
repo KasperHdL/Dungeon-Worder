@@ -21,7 +21,7 @@ public class Room_Handler : MonoBehaviour {
 		}
 	}
 
-	void newRoom(){
+	public void newRoom(){
 		if(room != null){
 			room.killAllEnemies();
 			Destroy(room.gameObject);
